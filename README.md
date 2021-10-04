@@ -1,11 +1,16 @@
-##Y2S1 Group project  || SLIIT
+# WeTube
 
-##"WeTube", online video streaming platform.
+### An online video streaming platform.
 
-We tube was an online video streaming platform designed as a part of the group project for the "Object Oriented Programming" module.
+We tube is an online video streaming platform designed and implemented as a part of the semester assignment of the OOP module for the BSc. in IT Year 2 Semester 1 at SLIIT.
 
-##Group Members:
-Asel Jayasooriya
-Amanullath Unais
-Wishwa Rathnaweera
-Madusanka Waththaladeniya
+## Technologies
+1. Java Server Pages (JSP).
+2. Java servlet.
+3. MySQL.
+
+## Group Members
+#### Asel Jayasooriya
+#### Amanullath Unais
+#### Wishwa Rathnaweera
+#### Madusanka Waththaladeniya
