@@ -7,7 +7,9 @@ We tube is an online video streaming platform designed and implemented as a part
 ## Technologies
 1. Java Server Pages (JSP).
 2. Java servlet.
-3. MySQL.
+3. JSTL Library.
+4. MySQL.
+5. Bootstrap v5.
 
 ## Group Members
 #### Asel Jayasooriya
