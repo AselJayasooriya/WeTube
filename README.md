@@ -2,7 +2,7 @@
 
 ##"WeTube", online video streaming platform.
 
-We tube was an online video streaming platform designed as a part of the group project for the our "Object Oriented Programming" module.
+We tube was an online video streaming platform designed as a part of the group project for the "Object Oriented Programming" module.
 
 ##Group Members:
 Asel Jayasooriya
