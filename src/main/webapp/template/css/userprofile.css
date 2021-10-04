@@ -1,0 +1,80 @@
+body {
+    background-image: url("../images/us.png");
+    background-color: #0c56d0;
+}
+form {
+    width: 40%;
+    margin-left:750px;
+
+}
+hr{
+    border: 2px solid black;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 20%;
+    background-color: #0b3d91;
+    color: white;
+    padding: 12px 10px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=pass] {
+    width: 20%;
+    background-color: #0b3d91;
+    color: white;
+    padding: 12px 10px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit].rr {
+    width: 20%;
+    background-color: #0b3d91;
+    color: white;
+    padding: 12px 8px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #536DFE;
+}
+input[type=submit]:hover.dt{
+    background-color: #3c3c3c;
+}
+
+div {
+    border-radius: 5px;
+    background-color: white;
+    padding: 50px;
+}
+hr{
+    border: 4px navy;
+}
+div.ab{
+    background-color: #a3a3a3;
+    padding: 50px;
+    margin-top: 20px;
+}
+div.rs{
+   padding: 60px;
+}
+
